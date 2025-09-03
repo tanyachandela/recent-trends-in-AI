@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fashion Classifier Web App
 
 ## Steps to Run Locally
@@ -14,3 +15,6 @@
 
 ## API Endpoint
 POST `/predict` with `file` (image) → returns JSON `{prediction: "class_name"}`
+=======
+# recent-trends-in-AI
+>>>>>>> 83b06503d85f7c3e00b2b7c4f40e85f1de0d0d6a
